@@ -24,3 +24,5 @@ Make these UI run steps:
 2.. choose the painter
 3.. run the iterator by "Next Painting" button click
 
+** I do not have permissions to use artistic images of the project, so please use there images 
+for the application illustrative and educational purposes only 🙏
